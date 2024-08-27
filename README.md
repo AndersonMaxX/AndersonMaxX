@@ -1,7 +1,7 @@
 
 👋 Olá, eu sou o Anderson!
 
-Sou apaixonado por desenvolvimento front-end e estou sempre em busca de novos desafios e conhecimentos para aprimorar minhas habilidades.
+Tenho um grande interesse pelo desenvolvimento front-end e estou sempre em busca de novos desafios e aprendizados para melhorar minhas habilidades.
 
 🚀 Sobre Mim:
 
