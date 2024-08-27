@@ -1,12 +1,12 @@
 
 <h1>👋 Olá, eu sou o Anderson!</h1>
 
-Tenho um grande interesse pelo desenvolvimento front-end e estou sempre em busca de novos desafios e aprendizados para melhorar minhas habilidades.
+Tenho um grande interesse pelo desenvolvimento Front-end e estou sempre em busca de novos desafios e aprendizados para melhorar minhas habilidades.
 
 <h2>🚀 Sobre Mim:</h2>
 
  - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
- - 🎯 Focado em Desenvolvimento Frontend com React.js, HTML, CSS e JavaScript.
+ - 🎯 Focado em Desenvolvimento Front-end com React.js, HTML, CSS e JavaScript.
  - 📚 Cursando disciplinas como Programação Web, Sistemas Operacionais, Técnicas e Desenvolvimento de Algoritmo e Engenharia de Software.
    
 <h2>💼 Experiência Profissional:</h2>
