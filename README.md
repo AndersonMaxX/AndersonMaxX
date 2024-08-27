@@ -15,7 +15,7 @@ Tenho um grande interesse pelo desenvolvimento front-end e estou sempre em busca
 
 📈 Minhas Estatísticas no GitHub:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMaxX&show_icons=true&theme=radical)
 
 📚 Estudando:
 [](https://github.com/AbhishekSinghDhadwal/AbhishekSinghDhadwal#-tech-stack)
