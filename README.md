@@ -38,7 +38,6 @@ Tenho um grande interesse pelo desenvolvimento front-end e estou sempre em busca
 
 
 <h2>🌐 Conecte-se Comigo:</h2>
-[](https://github.com/AbhishekSinghDhadwal/AbhishekSinghDhadwal#--how-to-reach-me)
 
 [![LinkedIn](https://camo.githubusercontent.com/19aa0fbc6571cc7b16694d5e0d9a14a763616a04343abe25f2d0c1c2d0fd3236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/andersonmax-frontend/) [![GitHub](https://camo.githubusercontent.com/91a2351b7179ad616fbeb72c1618d13fe257e60be6627180d5174fa6ec3d0200/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562)](https://github.com/AndersonMaxX)
 
